@@ -1,0 +1,6 @@
+C:\Users\Дмитрий\Desktop\EPAMTask1\EPAMTask1\bin\Debug\EPAMTask1.exe.config
+C:\Users\Дмитрий\Desktop\EPAMTask1\EPAMTask1\bin\Debug\EPAMTask1.exe
+C:\Users\Дмитрий\Desktop\EPAMTask1\EPAMTask1\bin\Debug\EPAMTask1.pdb
+C:\Users\Дмитрий\Desktop\EPAMTask1\EPAMTask1\obj\Debug\EPAMTask1.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\EPAMTask1\EPAMTask1\obj\Debug\EPAMTask1.exe
+C:\Users\Дмитрий\Desktop\EPAMTask1\EPAMTask1\obj\Debug\EPAMTask1.pdb
